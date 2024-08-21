@@ -12,10 +12,6 @@
 
 - PC端访问：[https://wx.zsxq.com/dweb2/index/group/28885518425541](https://wx.zsxq.com/dweb2/index/group/28885518425541)
 
-<div align="center">
-    <img src="https://bugstack.cn/images/system/zsxq/zsxq-ai.jpeg?raw=true" width="350px">
-</div>
-
 ### 3. 模型训练
 
 #### 3.1 环境安装
