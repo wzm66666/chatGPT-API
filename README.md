@@ -8,13 +8,10 @@
 1. 技术栈：Java、SpringBoot、爬虫、ChatGPT、job、Docker
 2. OpenAi Keys 申请：[https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys) 。
 
-### 2. 加入【ChatGPT AI 问答助手】
 
-- PC端访问：[https://wx.zsxq.com/dweb2/index/group/28885518425541](https://wx.zsxq.com/dweb2/index/group/28885518425541)
+### 2. 模型训练
 
-### 3. 模型训练
-
-#### 3.1 环境安装
+#### 2.1 环境安装
 
 - 下载 Python：[https://www.python.org/downloads/macos/](https://www.python.org/downloads/macos/) 3.6版本以上
 - 配置 Python：
@@ -24,7 +21,7 @@
     
 - 安装 pip：以下需要用到 pip 指令，如果没有需要安装 'curl https://bootstrap.pypa.io/get-pip.py | python3'
 
-#### 3.3 tensorflow
+#### 2.3 tensorflow
 
 地址：[https://www.tensorflow.org/install?hl=zh-cn](https://www.tensorflow.org/install?hl=zh-cn)
 
